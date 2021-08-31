@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Eu sou o Rodrigo Henrique
 
-<!--
-**orodrigoh/orodrigoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou desenvolvedor Front-End
+- 🌱 Estou aprendendo React, Typescript, Node
 
-Here are some ideas to get you started:
+- 📫 Como me encontrar:
+<div>
+    <a href="mailto:rodrigo.hss@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Outlook-blue" target="_blank">
+  </a>
+      <a href="https://mywhats.net/RodrigoHenrique" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orodrigoh&count_private=true&show_icons=true&theme=onedark)
+](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orodrigoh&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+##
